@@ -51,7 +51,7 @@ API_HASH = "7aa60670b871050820086c6267371ee6"
 BOT_TOKEN = "8694198519:AAHkfsd2hG584oC92jM-Ee2PJd2snDy49qM"
 
 CHANNEL_USERNAME = "@log_ak_bots"   # used for membership check messages
-PHOTO_URL = "https://d.uguu.se/VgRgbvSw.jpg"
+PHOTO_URL = "https://i.ibb.co/chbR7G0C/photo-AQADfx-Jr-Gz7w-EFZ.jpg"
 DUMMY_URL = "https://o.uguu.se/smoyaziL.jpg"   # <- yaha apna dummy photo url daalna
 
 # DB channel and Mongo URI (user provided)

@@ -48,7 +48,7 @@ from pyrogram.types import (
 # === CONFIG ===
 API_ID = 37476811
 API_HASH = "7aa60670b871050820086c6267371ee6"
-BOT_TOKEN = "8772992861:AAFOhWEzVisx7Amd69LETvz4x-0waZaQSEA"
+BOT_TOKEN = "8694198519:AAHkfsd2hG584oC92jM-Ee2PJd2snDy49qM"
 
 CHANNEL_USERNAME = "@log_ak_bots"   # used for membership check messages
 PHOTO_URL = "https://d.uguu.se/VgRgbvSw.jpg"
@@ -67,7 +67,7 @@ ITERAPLAY_API_KEY = "sk_6c79f22723800e417168d09eafa66565"   # jo key tu use kar 
 # Supporting bot tokens (replace with your real tokens)
 SUPPORT_BOT_TOKENS = [
     # Example: "123456:AA...",
-    "8858600826:AAHz5uYYPw14hUWOASP5hnhzC0_lKZDfo2g"
+    "8903849115:AAGDXLU5J2KjUb0Z1J6bhCk2ulytajNXmlQ"
 ]
 
 # prefer RAM-disk for faster I/O

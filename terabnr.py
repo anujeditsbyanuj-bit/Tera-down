@@ -48,7 +48,7 @@ from pyrogram.types import (
 # === CONFIG ===
 API_ID = 37476811
 API_HASH = "7aa60670b871050820086c6267371ee6"
-BOT_TOKEN = "8694198519:AAHkfsd2hG584oC92jM-Ee2PJd2snDy49qM"
+BOT_TOKEN = "8274193303:AAHXlusQCd-fnWA5_pUL-Yojj6Ki0AtyvO0"
 
 CHANNEL_USERNAME = "@log_ak_bots"   # used for membership check messages
 PHOTO_URL = "https://i.ibb.co/chbR7G0C/photo-AQADfx-Jr-Gz7w-EFZ.jpg"

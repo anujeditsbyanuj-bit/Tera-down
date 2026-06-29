@@ -46,17 +46,17 @@ from pyrogram.types import (
 )
 
 # === CONFIG ===
-API_ID = 34446649
-API_HASH = "8dc570c08d8e35e88fb9bfc73c65d7fa"
+API_ID = 37476811
+API_HASH = "7aa60670b871050820086c6267371ee6"
 BOT_TOKEN = "8772992861:AAFOhWEzVisx7Amd69LETvz4x-0waZaQSEA"
 
-CHANNEL_USERNAME = "@TeraBox_Support_Anuj_Bot"   # used for membership check messages
+CHANNEL_USERNAME = "@log_ak_bots"   # used for membership check messages
 PHOTO_URL = "https://d.uguu.se/VgRgbvSw.jpg"
 DUMMY_URL = "https://o.uguu.se/smoyaziL.jpg"   # <- yaha apna dummy photo url daalna
 
 # DB channel and Mongo URI (user provided)
-DB_CHANNEL = -1003873749415
-ADMINS = [7892805795]
+DB_CHANNEL = -1003824246703
+ADMINS = [8730393744]
 MONGO_DB_URI = "mongodb+srv://Anujedit:Anujedit@cluster0.7cs2nhd.mongodb.net/?appName=Cluster0"
 
 # limits and endpoints
